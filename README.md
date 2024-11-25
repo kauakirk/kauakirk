@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauakirk)](https://github.com/anuraghazra/github-readme-stats)
 
 - 💻 Information System Student
-- 🌱 Studying javaScript
+- 🌱 Studying javaScript and IA
 - 📫 My email: kauakirk46@gmail.com
 
 
